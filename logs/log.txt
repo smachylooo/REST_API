@@ -1,0 +1,4 @@
+********************************************************************************
+Delete/Time: 19.05.2024
+Exception Info: {"status":500,"statusText":"Internal Server Error","message":"ENOENT: no such file or directory, open './assets/prcies.json'","error":{"errno":-2,"call":"open","code":"Internal_Server_Error","message":"ENOENT: no such file or directory, open './assets/prcies.json'"},"requestInfo":{"hostname":"localhost","path":"/api/"}}
+********************************************************************************
